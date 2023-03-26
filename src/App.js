@@ -32,13 +32,15 @@ function App() {
                           JavaScripts, and the third, Babel, allows us to write JSX
                           syntax and ES6 in
                           older browsers</p>
-                          <p>Include three CDN's in your HTML file:</p>
+              <p>Include three CDN's in your HTML file:</p>
+                          <code>
                       &lt;script src=&quot;<a href="https://unpkg.com/react@17/umd/react.development.js">https://unpkg.com/react@18/umd/react.development.js</a>&quot; crossorigin&gt;&lt;/script&gt;
                           <br />
                       &lt;script src=&quot;<a href="https://unpkg.com/react-dom@17/umd/react-dom.development.js">https://unpkg.com/react-dom@18/umd/react-dom.development.js</a>&quot; crossorigin&gt;&lt;/script&gt;
                           <br />
                           &lt;script src=&quot;https://unpkg.com/@babel/standalone/babel.min.js&quot;&gt;&lt;/script&gt;
-                          &lt;/head&gt;
+                  &lt;/head&gt;
+                          </code>
           </header>
         </div></>
   );
