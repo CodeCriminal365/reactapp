@@ -28,9 +28,6 @@ function App() {
                       write React directly in your HTML files.</p>
                   <hr />
 
-                  <h2>React Directly in HTML</h2>
-                  <p>The quickest way start learning React is to
-                   write React directly in your HTML files.</p>
                       <p>Start by including three scripts, the first two let us write React code in our
                           JavaScripts, and the third, Babel, allows us to write JSX
                           syntax and ES6 in
